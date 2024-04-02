@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MasterScriptAvatarBuilder : MonoBehaviour
+public class Test1Rect : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
